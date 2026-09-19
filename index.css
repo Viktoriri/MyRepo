@@ -1,0 +1,88 @@
+body {
+    font-family: "Inter";
+}
+
+p:first-of-type{
+    font-size: 11px;
+    line-height: 1.5;
+    color:gray;
+    width: 600px;
+    margin: 0 auto 15px;
+}
+
+p {
+    font-size: 11px;
+    line-height: 1.5;
+    width: 600px;
+    margin: 0 auto 15px;
+}
+
+i {
+    font-size: 11px;
+    line-height: 1.5;
+    width: 600px;
+    margin: 0 auto 15px;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: right;
+    width: fit-content;
+    margin: 0 auto 15px;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: right;
+    width: fit-content;
+    margin: 20px auto 12px;
+}
+
+h3 {
+    font-size: 18px;
+    width: fit-content;
+    margin: 25px auto 10px;
+    margin-bottom: 24px
+}
+
+h4 {
+    font-size: 18px;
+    width: fit-content;
+    margin: 25px auto 10px;
+    margin-bottom: 24px
+}
+
+ol {
+    font-size: 11px;
+    line-height: 1.5;
+    width: 600px;
+    margin: 0 auto 15px;
+}
+
+img {
+    display: block;
+    width: 600px;
+    margin: auto;
+}
+
+hr {
+    height: 1px;
+    margin: 40px auto;
+    width: 600px;
+}
+
+ul {
+    width: 600px;
+    margin: 20px auto;
+}
+
+li {
+    margin-bottom: 10px;
+}
+blockquote {
+    width: 600px;
+    margin: 25px auto;
+    font-style: italic;
+    line-height: 1.4;
+}
+
